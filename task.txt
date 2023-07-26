@@ -12,8 +12,8 @@ MUST:-
 - [x] Deploy the code on a public github repository.
 
 OPTIONAL:-
-- Seeded data of the websites.
-- Open API documentation (or) Postman collection demonstrating available APIs & their usage.
+- [x] Seeded data of the websites.
+- [x] Open API documentation (or) Postman collection demonstrating available APIs & their usage.
 - Use of contracts & services.
 - Use of caching wherever applicable.
 - Use of events/listeners.
